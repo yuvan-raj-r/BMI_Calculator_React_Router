@@ -1,5 +1,9 @@
 # Ex06 BMI Calculator
+<<<<<<< HEAD
 ## Date: 03-09-2026
+=======
+## Date: 
+>>>>>>> ef43e1092651210df979bc82bfee2ed2687f14eb
 
 ## AIM
 To develop a responsive and interactive Body Mass Index (BMI) Calculator using React that allows users to input their height and weight, and calculates their BMI to categorize their health status (e.g., Underweight, Normal, Overweight, Obese).
@@ -64,6 +68,7 @@ Create routing structure with react-router-dom:
 <li>Add styling using CSS or Tailwind.</li>
 
 ## PROGRAM
+<<<<<<< HEAD
 ```
 // src/BMICalculator.js
 
@@ -132,13 +137,23 @@ function App() {
 export default App;
 
 ```
+=======
+
+>>>>>>> ef43e1092651210df979bc82bfee2ed2687f14eb
 
 
 ## OUTPUT
 
+<<<<<<< HEAD
 ![alt text](Screenshot_7-9-2026_10204_localhost.jpeg)
+=======
+
+>>>>>>> ef43e1092651210df979bc82bfee2ed2687f14eb
 
 
 ## RESULT
 The BMI Calculator successfully takes user input for height and weight, performs the BMI calculation in real-time using React state and event handling, and displays the BMI value along with the corresponding health category.
+<<<<<<< HEAD
 
+=======
+>>>>>>> ef43e1092651210df979bc82bfee2ed2687f14eb
